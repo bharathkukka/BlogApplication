@@ -1,4 +1,3 @@
-
 # Django Blog Platform
 
 A full-featured, modern blog application built with Python and the Django Web Framework. This platform allows users to create accounts, publish posts, categorize their content, and interact with other posts through comments. It features a clean, responsive user interface and a powerful backend admin panel.
@@ -7,15 +6,18 @@ A full-featured, modern blog application built with Python and the Django Web Fr
 
 ## 📚 Table of Contents
 
-- [Features](#features)
-- [Project Demonstration](#project-demonstration)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+* [✨ Features](#-features)
+* [🖼️ Project Demonstration](#️-project-demonstration)
+
+  * [🏠 Homepage & Post Listings](#-homepage--post-listings)
+  * [📄 Post Detail & Comments](#-post-detail--comments)
+  * [✍️ Creating & Editing Posts](#️-creating--editing-posts)
+  * [🗑️ Delete the Post](#delete-the-post)
+  * [🆕 New Post](#new-post)
+* [⚙️ Installation](#️-installation)
+* [🚀 Usage](#-usage)
+* [🛠 Technologies Used](#-technologies-used)
+* [🤝 Contributing](#-contributing)
 
 ---
 
