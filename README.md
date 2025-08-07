@@ -185,6 +185,4 @@ git push origin feature/your-feature-name
 
 5. Create a Pull Request to the `main` branch of the original repository.
 
-> Please ensure your code follows the style guide and includes tests if applicable.
-
 ---
