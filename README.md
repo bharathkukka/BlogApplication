@@ -58,15 +58,25 @@ Authenticated users can use a clean, web-based form to write new posts or edit t
 
 ![Post Form Screenshot](https://github.com/bharathkukka/BlogApplication/blob/9f0f41f8912134423f207e41378f18dfbd94e75e/Data/editpost.png)
 
+---  
+
+## Django admin Page
+
+![admin](https://github.com/bharathkukka/BlogApplication/blob/2f82ca7f9bc4fefd22b037897372ff715e19f7e0/Data/djangointerface.png)
+
+---
+
 ### 🗑️ Delete the Post
 
 ![Post delete](https://github.com/bharathkukka/BlogApplication/blob/9f0f41f8912134423f207e41378f18dfbd94e75e/Data/deletepost.png)
+
 ---
 
 ### 🆕 New Post 
 
 ![new](https://github.com/bharathkukka/BlogApplication/blob/9f0f41f8912134423f207e41378f18dfbd94e75e/Data/newpost.png)
 
+---  
 ## ⚙️ Installation
 
 Follow these steps to set up and run the project locally.
