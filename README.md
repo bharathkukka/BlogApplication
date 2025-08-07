@@ -58,12 +58,12 @@ Authenticated users can use a clean, web-based form to write new posts or edit t
 
 ![Post Form Screenshot](https://github.com/bharathkukka/BlogApplication/blob/9f0f41f8912134423f207e41378f18dfbd94e75e/Data/editpost.png)
 
-### Delete the Post
+### 🗑️ Delete the Post
 
 ![Post delete](https://github.com/bharathkukka/BlogApplication/blob/9f0f41f8912134423f207e41378f18dfbd94e75e/Data/deletepost.png)
 ---
 
-### New Post 
+### 🆕 New Post 
 
 ![new](https://github.com/bharathkukka/BlogApplication/blob/9f0f41f8912134423f207e41378f18dfbd94e75e/Data/newpost.png)
 
